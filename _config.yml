@@ -1,7 +1,7 @@
 name: Analog Mindset
 favicon: null
-layout_spectrum: 0.010706223081797361
-typography_spectrum: 0.4852050782646984
+layout_spectrum: 0.1289
+typography_spectrum: 0.46305
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.043843096820637584
-  lightness: 0.19621335505507886
-  saturation: 0.4081442761234939
-  rhythmicContrast: 0.03512483346275985
+    - '#000000'
+    - '#d9d9d9'
+    - '#767676'
+    - '#535353'
+    - '#b6b6b6'
+  brandStrength: 0.125
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
